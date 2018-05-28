@@ -1,0 +1,3 @@
+echo hello
+
+cmd /k
